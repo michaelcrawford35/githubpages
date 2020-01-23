@@ -14,4 +14,5 @@ These are just a couple of the photos that I have taken. Below are a couple imag
 1. Possible better outlet to share my work
 
 [Camera Kit Including Items on List](https://shop.usa.canon.com/shop/en/catalog/eos-rebel-t6-ef-S-18-55mm-ef-75-300mm-double-zoom-kit "Canon Rebel T6 Kit")
+
 [Examples of Photography Websites (Potential Outlet)](https://www.sitebuilderreport.com/inspiration/photography-website-examples?a=ga&gclid=Cj0KCQiApaXxBRDNARIsAGFdaB_APd4JTNCDkmj3-cyjx29TaYbkgn8_JRaGrWG7aXTAgTZf-qw8vnkaAoQaEALw_wcB)
