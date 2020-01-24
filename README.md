@@ -2,8 +2,8 @@
 Recently, I have been getting more into photography. I don't have a camera or anything, just my phone.
 ## My Photos
 These are just a couple of the photos that I have taken. An album with more photos can be found [here](https://photos.app.goo.gl/N5p3pZNegRDsKzw59 "Photo Album").
-![sunset](https://github.com/michaelcrawford35/githubpages/blob/master/sunset25.jpg "Sunset Here at Northwest")
-![bella](https://github.com/michaelcrawford35/githubpages/blob/master/dog25.jpg "My Dog Bella")
+![sunset](https://github.com/michaelcrawford35/githubpages/raw/master/sunset25.jpg "Sunset Here at Northwest")
+![bella](https://github.com/michaelcrawford35/githubpages/raw/master/dog25.jpg "My Dog Bella")
 ## What I Would Like to Learn
 - Editing Photos
 - Better Photography Techniques
